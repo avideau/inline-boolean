@@ -1,6 +1,6 @@
 <?php
 
-namespace MarkRassamni\InlineBoolean;
+namespace Avideau\InlineBoolean;
 
 use Laravel\Nova\Fields\Boolean;
 
