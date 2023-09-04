@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "MarkRassamni\\InlineBoolean\\": "src/"
+            "Avideau\\InlineBoolean\\": "src/"
         }
     },
     "authors": [
@@ -24,7 +24,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "MarkRassamni\\InlineBoolean\\FieldServiceProvider"
+                "Avideau\\InlineBoolean\\FieldServiceProvider"
             ]
         }
     },
